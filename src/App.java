@@ -10,4 +10,8 @@ public class App {
     public static void funcionCaballo(){
         System.out.println("El caballo se mueve en L");
     }
+
+    public static void funcionTorre() {
+        System.out.println("La torre se mueve en lineas horizontal y vertical");
+    }
 }
